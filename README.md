@@ -8,10 +8,10 @@
 
 ### 🥰 我是谁 | Who am i
 
-- My name is yolumia
+- My name is ZhangJiabin.
 - Student.
 - Currently in Nanjing, China.
-- I love Here.
+- I love ACG.
 
 ### 🛠 技术栈 | Tech stack
 
