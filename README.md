@@ -35,7 +35,7 @@
 - ![Deeplearning](https://img.shields.io/badge/Deeplearning-333333?style=flat&logo=Deeplearning&logoColor=000000)
 ![Robust Federal learning](https://img.shields.io/badge/Robust_Federal_Learning-333333?style=flat&logo=FL&logoColor=000000)
 ![Non-iid](https://img.shields.io/badge/Non_iid-333333?style=flat&logo=Non-iid&logoColor=000000)
-- ![GML](https://img.shields.io/badge/GML-333333?style=flat&logo=GML&logoColor=000000)
+- ![LLM](https://img.shields.io/badge/GML-333333?style=flat&logo=GML&logoColor=000000)
 ![Intelligent driving trajectory prediction](https://img.shields.io/badge/Intelligent_driving_trajectory_prediction-333333?style=flat&logo=GML&logoColor=000000)
 
 
