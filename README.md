@@ -17,7 +17,7 @@
 
 - ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![K8s](https://img.shields.io/badge/K8s-333333?style=flat&logo=K8s&logoColor=2496ED)
+![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=Windows&logoColor=2496ED)
 - ![Android](https://img.shields.io/badge/Android-333333?style=flat&logo=Android&logoColor=57DF1E)
 ![Qt5](https://img.shields.io/badge/Qt5-333333?style=flat&logo=Qt&logoColor=37DF1E)
 ![STM32](https://img.shields.io/badge/STM32-333333?style=flat&logo=STM32&logoColor=E34F26)
