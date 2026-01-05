@@ -9,7 +9,6 @@
 ### 🥰 我是谁 | Who am i
 
 - My name is ZhangJiabin.
-- Lenovo Machine Learning Engineer .
 - Currently in Nanjing, China.
 - I love ACG.
 
